@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="newsapp">NewsApp</string>
+    <string name="new_heading">New Heading</string>
+    <string name="newapp">newapp</string>
+    <string name="subtitle">SubTitle</string>
+</resources>
